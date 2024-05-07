@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/tuliogontijo/desafio-votacao-dbserver-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/tuliogontijo/desafio-votacao-dbserver-frontend.git
